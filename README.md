@@ -9,4 +9,5 @@ Orientação a Objetos:
   - Conceitos básicos: classes, objetos, métodos;
   - Encapsulamento, herança e polimorfismo.
   - Criação de classes e instâncias.
+  - Métodos estáticos
 
